@@ -4,11 +4,21 @@
 
 <br/>
 
-```ansi
-[0;35m┌─[0;36m system_kernel[0;35m]──────────────────────────────────────────────────[0;35m─┐
-[0;35m│[0m  [1;31m●[0m  [1;33m●[0m  [1;32m●[0m   jai-source@neon-terminal: ~  [1;30m[0m   [0;35m│
-[0;35m└──────────────────────────────────────────────────────────────────[0;35m─┘
+<table width="640">
+<tr><td>
+
+```bash
+●  ●  ●   jai-source@neon-terminal: ~
+
+$ whoami
+> Jai Ratna — Full-Stack Developer
+
+$ status --check
+> ONLINE ✓  |  ready to build
 ```
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -36,17 +46,16 @@
 
 ```jsonc
 {
-  "developer"        : "Jai Ratna",
-  "username"         : "@jai-source",
-  "role"             : "Undergraduate CS Student • Full-Stack Developer",
-  "current_focus"    : "Building real-world, production-grade applications",
-  "bio"              : "Hi, I'm Jai 👋 A Computer Science student passionate about
-                         building real-world applications.",
-  "currently_learning": ["System Design", "Cloud Architecture", "DevOps"],
-  "fun_fact"         : "console.log('debugging life one commit at a time')",
-  "open_to"          : ["Internships", "Open Source", "Collab Projects", "Hackathons"],
-  "reach_me_at"      : "→ scroll to footer for socials ⌄",
-  "status"           : "compiling_dreams.exe — [ 100% ]"
+  "developer"          : "Jai Ratna",
+  "username"           : "@jai-source",
+  "role"               : "Undergraduate CS Student • Full-Stack Developer",
+  "current_focus"      : "Building real-world, production-grade applications",
+  "bio"                : "Hi, I'm Jai 👋 A CS student passionate about building real-world applications.",
+  "currently_learning" : ["System Design", "Cloud Architecture", "DevOps"],
+  "fun_fact"            : "console.log('debugging life one commit at a time')",
+  "open_to"             : ["Internships", "Open Source", "Collab Projects", "Hackathons"],
+  "reach_me_at"         : "→ scroll to footer for socials ⌄",
+  "status"              : "compiling_dreams.exe — [ 100% ]"
 }
 ```
 
