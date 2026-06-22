@@ -1,24 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=auto&text=Jai%20Ratna&animation=twinkling&height=180&fontSize=50" width="100%" />
-</div>
+  <!-- Interactive Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=auto&text=JAI%20RATNA&animation=twinkling&height=200&fontSize=65&theme=radical" width="100%" />
 
-<div align="center">
-  <h3>⚡ Full-Stack Developer & Computer Science Student ⚡</h3>
-  <p><i>Hi, I'm Jai 👋 A Computer Science student passionate about building real-world applications.</i></p>
-</div>
+  <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Cyberpunk-ff007f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Main_Focus-Full_Stack_Dev-00f0ff?style=for-the-badge" />
-</p>
+  <h1>🚀 TERMINAL OVERRIDE: ACTIVE</h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/VERSION-2.0.26-ff007f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ROLE-FULL__STACK__DEV-00f0ff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/STATUS-UNDERGRAD__CS-purple?style=for-the-badge" />
+  </p>
+
+  <p><i>"Hi, I'm Jai 👋 A Computer Science student passionate about building real-world applications, engineering architectures, and breaking code."</i></p>
+</div>
 
 ---
 
-## 🌌 Overview
+## 🌌 System Architecture (About Me)
 
-```javascript
-const jai = {
-  code: ["TypeScript", "JavaScript", "Python", "Java", "C", "Dart"],
-  askMeAbout: ["Web Dev", "Database Architecture", "UI/UX Design"],
-  currentVibe: "Building the future, one commit at a time."
+javascript
+const jaiRatna = {
+  status: "Undergraduate Computer Science Student",
+  specialization: "Full-Stack Software Engineering",
+  coreFocus: ["Scalable Architecture", "UI/UX Engineering", "System Optimization"],
+  currentStance: "Aggressively building frameworks and deploying systems.",
+  manifesto: "If it isn't broken, optimize it until it breaks, then make it bulletproof."
 };
