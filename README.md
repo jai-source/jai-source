@@ -44,20 +44,44 @@ $ status --check
 
 <div align="center">
 
-```jsonc
-{
-  "developer"          : "Jai Ratna",
-  "username"           : "@jai-source",
-  "role"               : "Undergraduate CS Student • Full-Stack Developer",
-  "current_focus"      : "Building real-world, production-grade applications",
-  "bio"                : "Hi, I'm Jai 👋 A CS student passionate about building real-world applications.",
-  "currently_learning" : ["System Design", "Cloud Architecture", "DevOps"],
-  "fun_fact"            : "console.log('debugging life one commit at a time')",
-  "open_to"             : ["Internships", "Open Source", "Collab Projects", "Hackathons"],
-  "reach_me_at"         : "→ scroll to footer for socials ⌄",
-  "status"              : "compiling_dreams.exe — [ 100% ]"
-}
-```
+<table width="92%">
+<tr>
+<td width="32%" align="right"><code>"developer"</code></td>
+<td width="68%" align="left">💠 Jai Ratna</td>
+</tr>
+<tr>
+<td align="right"><code>"username"</code></td>
+<td align="left">💠 @jai-source</td>
+</tr>
+<tr>
+<td align="right"><code>"role"</code></td>
+<td align="left">💠 Undergraduate CS Student · Full-Stack Developer</td>
+</tr>
+<tr>
+<td align="right"><code>"current_focus"</code></td>
+<td align="left">💠 Building real-world, production-grade applications</td>
+</tr>
+<tr>
+<td align="right" valign="top"><code>"bio"</code></td>
+<td align="left">💠 Hi, I'm Jai 👋 A CS student passionate about building real-world applications.</td>
+</tr>
+<tr>
+<td align="right" valign="top"><code>"currently_learning"</code></td>
+<td align="left">💠 System Design · Cloud Architecture · DevOps</td>
+</tr>
+<tr>
+<td align="right"><code>"fun_fact"</code></td>
+<td align="left">💠 console.log('debugging life one commit at a time')</td>
+</tr>
+<tr>
+<td align="right" valign="top"><code>"open_to"</code></td>
+<td align="left">💠 Internships · Open Source · Collabs · Hackathons</td>
+</tr>
+<tr>
+<td align="right"><code>"status"</code></td>
+<td align="left">💠 compiling_dreams.exe — <b>[ 100% ]</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -149,6 +173,32 @@ $ status --check
 
 <br/>
 
+## <img src="https://img.shields.io/badge/%3E_-stats--engine.sh-00FFF5?style=flat-square&labelColor=0D0221" height="28"/>
+
+<div align="center">
+
+<img height="172" src="https://github-readme-stats.vercel.app/api?username=jai-source&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FFF5&icon_color=FF00E4&text_color=c9d1d9&ring_color=7303C0" />
+<img height="172" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-source&theme=radical&hide_border=true&background=0D0221&ring=FF00E4&fire=EC0868&currStreakLabel=00FFF5&sideLabels=c9d1d9&dates=7303C0&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai-source&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FFF5&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-trophies.vercel.app/?username=jai-source&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
+
+<br/>
+<sub>⟁ live data pulled directly from GitHub's activity graph — refreshes automatically</sub>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+
+<br/>
+
 <div align="center">
 
 ## <img src="https://img.shields.io/badge/%3E_-connect.sh-7303C0?style=flat-square&labelColor=0D0221" height="28"/>
@@ -160,9 +210,9 @@ $ ./connect.sh --target jai-source --protocol secure
 ```
 
 <a href="https://github.com/jai-source"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/jai-ratna-600522328/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:jairatna54@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
 
 <br/><br/>
 
