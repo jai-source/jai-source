@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7303C0,100:EC0868&height=280&section=header&text=JAI%20RATNA&fontSize=78&fontColor=00FFF5&fontAlignY=38&desc=root@jai-source%20:~%23%20whoami&descAlignY=58&descSize=20&descAlign=50&animation=fadeIn" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,50:4A0404,100:B80F0A&height=280&section=header&text=JAI%20RATNA&fontSize=80&fontColor=E8E3D3&fontAlignY=42&desc=%E3%83%8D%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A4%E3%83%88%E3%83%BB%E3%83%87%E3%82%A4%E3%83%88%E3%83%BC%E3%83%96%E3%82%A4%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%84&descAlignY=62&descSize=18&descColor=B80F0A" alt="header banner"/>
 
 <br/>
 
@@ -8,13 +8,16 @@
 <tr><td>
 
 ```bash
-●  ●  ●   jai-source@neon-terminal: ~
+[ SYSTEM BREACH DETECTED ]
+NODE     : jai-source.sys
+LOCATION : ENCRYPTED
+ACCESS   : ROOT
 
-$ whoami
-> Jai Ratna — Full-Stack Developer
+> whoami
+  Jai Ratna — Full-Stack Developer
 
-$ status --check
-> ONLINE ✓  |  ready to build
+> uptime --status
+  ONLINE · ARMED · READY TO DEPLOY
 ```
 
 </td></tr>
@@ -23,75 +26,53 @@ $ status --check
 <br/>
 
 <a href="https://github.com/jai-source">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=FF00E4&background=0D022100&center=true&vCenter=true&width=750&lines=Undergraduate+Computer+Science+Student;Full-Stack+Developer+%7C+Builder+of+Real+Apps;Compiling+ideas+into+production...+%E2%9C%93;Status%3A+ONLINE+%7C+Open+to+Collaborate+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=900&color=B80F0A&background=0A0A0A00&center=true&vCenter=true&width=780&lines=Undergraduate+Computer+Science+Student;Full-Stack+Developer+%E2%80%94+Builder+of+Real+Systems;Compiling+chaos+into+production...;Status%3A+ARMED+%7C+Open+to+Collaborate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D0221&logo=statuspage&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-FF00E4?style=for-the-badge&labelColor=0D0221&logo=hackthebox&logoColor=FF00E4" />
-<img src="https://img.shields.io/badge/LOCATION-INDIA-00FFF5?style=for-the-badge&labelColor=0D0221&logo=mapbox&logoColor=00FFF5" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-E8E3D3?style=flat-square&labelColor=0A0A0A" height="26"/>
+<img src="https://img.shields.io/badge/CLASS-FULL_STACK_DEV-B80F0A?style=flat-square&labelColor=0A0A0A" height="26"/>
+<img src="https://img.shields.io/badge/ORIGIN-INDIA-FF4500?style=flat-square&labelColor=0A0A0A" height="26"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<samp>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</samp>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/%3E_-config--about.json-7303C0?style=flat-square&labelColor=0D0221" height="28"/>
+## <samp>⌬ DOSSIER // ABOUT</samp>
 
 <div align="center">
 
-<table width="92%">
-<tr>
-<td width="32%" align="right"><code>"developer"</code></td>
-<td width="68%" align="left">💠 Jai Ratna</td>
-</tr>
-<tr>
-<td align="right"><code>"username"</code></td>
-<td align="left">💠 @jai-source</td>
-</tr>
-<tr>
-<td align="right"><code>"role"</code></td>
-<td align="left">💠 Undergraduate CS Student · Full-Stack Developer</td>
-</tr>
-<tr>
-<td align="right"><code>"current_focus"</code></td>
-<td align="left">💠 Building real-world, production-grade applications</td>
-</tr>
-<tr>
-<td align="right" valign="top"><code>"bio"</code></td>
-<td align="left">💠 Hi, I'm Jai 👋 A CS student passionate about building real-world applications.</td>
-</tr>
-<tr>
-<td align="right" valign="top"><code>"currently_learning"</code></td>
-<td align="left">💠 System Design · Cloud Architecture · DevOps</td>
-</tr>
-<tr>
-<td align="right"><code>"fun_fact"</code></td>
-<td align="left">💠 console.log('debugging life one commit at a time')</td>
-</tr>
-<tr>
-<td align="right" valign="top"><code>"open_to"</code></td>
-<td align="left">💠 Internships · Open Source · Collabs · Hackathons</td>
-</tr>
-<tr>
-<td align="right"><code>"status"</code></td>
-<td align="left">💠 compiling_dreams.exe — <b>[ 100% ]</b></td>
-</tr>
+<table width="94%">
+<tr><td>
+
+<table width="100%">
+<tr><td width="30%" align="right"><samp><b>SUBJECT</b></samp></td><td width="70%" align="left">Jai Ratna <code>aka jai-source</code></td></tr>
+<tr><td align="right"><samp><b>CLASS</b></samp></td><td align="left">Undergraduate CS Student · Full-Stack Developer</td></tr>
+<tr><td align="right"><samp><b>DIRECTIVE</b></samp></td><td align="left">Building real-world, production-grade applications</td></tr>
+<tr><td align="right" valign="top"><samp><b>PROFILE</b></samp></td><td align="left">Hi, I'm Jai 👋 A CS student passionate about building real-world applications.</td></tr>
+<tr><td align="right" valign="top"><samp><b>TRAINING</b></samp></td><td align="left">System Design · Cloud Architecture · DevOps</td></tr>
+<tr><td align="right" valign="top"><samp><b>CLEARANCE</b></samp></td><td align="left">Internships · Open Source · Collabs · Hackathons</td></tr>
+<tr><td align="right"><samp><b>LOG</b></samp></td><td align="left"><code>console.log('debugging life one commit at a time')</code></td></tr>
+<tr><td align="right"><samp><b>THREAT_LEVEL</b></samp></td><td align="left">🔴 <b>MAXIMUM</b> — handles bugs with extreme prejudice</td></tr>
+</table>
+
+</td></tr>
 </table>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<samp>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</samp>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/%3E_-grid--interface.tsx-EC0868?style=flat-square&labelColor=0D0221" height="28"/>
+## <samp>⌬ ARSENAL // TECH GRID</samp>
 
 <table width="100%">
 <tr>
@@ -99,16 +80,18 @@ $ status --check
 
 <div align="center">
 
-### `⟦ 01 ⟧` LANGUAGES
+<samp><b>『 01 』LANGUAGES</b></samp>
 
-<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=3178C6" /><br/>
-<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=EC0868" /><br/>
-<img src="https://img.shields.io/badge/C-0D0221?style=for-the-badge&logo=c&logoColor=00599C" />
-<img src="https://img.shields.io/badge/Dart-0D0221?style=for-the-badge&logo=dart&logoColor=00D2FF" /><br/>
-<img src="https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=FF00E4" />
-<img src="https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=00FFF5" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E8E3D3" /><br/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=E8E3D3" /><br/>
+<img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=E8E3D3" /><br/>
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=E8E3D3" />
 
 </div>
 
@@ -117,31 +100,39 @@ $ status --check
 
 <div align="center">
 
-### `⟦ 02 ⟧` FRONTEND
+<samp><b>『 02 』FRONTEND</b></samp>
 
-<img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=BD34FE" /><br/><br/>
+<br/><br/>
 
-<sub>⚡ component-driven · blazing-fast HMR builds</sub>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=B80F0A" />
+<img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=B80F0A" />
+
+<br/><br/>
+
+<samp>⚡ component-driven · zero-lag HMR builds</samp>
 
 </div>
 
 </td>
 </tr>
 
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### `⟦ 03 ⟧` BACKEND & DATABASES
+<samp><b>『 03 』BACKEND & DATABASES</b></samp>
 
-<img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Express.js-0D0221?style=for-the-badge&logo=express&logoColor=FFFFFF" /><br/>
-<img src="https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00FFF5" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><br/>
-<img src="https://img.shields.io/badge/Prisma-0D0221?style=for-the-badge&logo=prisma&logoColor=FF00E4" />
-<img src="https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=E8E3D3" /><br/>
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=E8E3D3" /><br/>
+<img src="https://img.shields.io/badge/Prisma-0A0A0A?style=for-the-badge&logo=prisma&logoColor=E8E3D3" />
+<img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=E8E3D3" />
 
 </div>
 
@@ -150,16 +141,18 @@ $ status --check
 
 <div align="center">
 
-### `⟦ 04 ⟧` DEV ENVIRONMENT & TOOLS
+<samp><b>『 04 』DEV ENVIRONMENT & TOOLS</b></samp>
 
-<img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FFFFFF" /><br/>
-<img src="https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=00FFF5" />
-<img src="https://img.shields.io/badge/Figma-0D0221?style=for-the-badge&logo=figma&logoColor=FF00E4" /><br/>
-<img src="https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=2496ED" /><br/>
-<img src="https://img.shields.io/badge/Vercel-0D0221?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Oracle-0D0221?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=FF4500" />
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF4500" /><br/>
+<img src="https://img.shields.io/badge/VS_Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=FF4500" />
+<img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=FF4500" /><br/>
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF4500" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FF4500" /><br/>
+<img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF4500" />
+<img src="https://img.shields.io/badge/Oracle-0A0A0A?style=for-the-badge&logo=oracle&logoColor=FF4500" />
 
 </div>
 
@@ -169,61 +162,96 @@ $ status --check
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<samp>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</samp>
 
 <br/>
 
-## <img src="https://img.shields.io/badge/%3E_-stats--engine.sh-00FFF5?style=flat-square&labelColor=0D0221" height="28"/>
+## <samp>⌬ COMBAT RECORD // STATS</samp>
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=jai-source&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FFF5&icon_color=FF00E4&text_color=c9d1d9&ring_color=7303C0" />
-<img height="172" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-source&theme=radical&hide_border=true&background=0D0221&ring=FF00E4&fire=EC0868&currStreakLabel=00FFF5&sideLabels=c9d1d9&dates=7303C0&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="172" src="https://github-readme-stats.vercel.app/api?username=jai-source&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E3D3&icon_color=B80F0A&text_color=8a8a8a&ring_color=B80F0A" />
+<img height="172" src="https://github-readme-streak-stats.herokuapp.com/?user=jai-source&theme=dark&hide_border=true&background=0A0A0A&ring=B80F0A&fire=FF4500&currStreakLabel=E8E3D3&sideLabels=8a8a8a&dates=8a8a8a&currStreakNum=E8E3D3&sideNums=E8E3D3" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai-source&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00FFF5&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai-source&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=E8E3D3&text_color=8a8a8a" />
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-trophies.vercel.app/?username=jai-source&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
+<img width="80%" src="https://github-readme-trophies.vercel.app/?username=jai-source&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 
 <br/>
-<sub>⟁ live data pulled directly from GitHub's activity graph — refreshes automatically</sub>
+<samp>⌬ live telemetry pulled directly from GitHub's activity core</samp>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+<samp>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</samp>
 
 <br/>
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/%3E_-connect.sh-7303C0?style=flat-square&labelColor=0D0221" height="28"/>
+## <samp>⌬ NEURAL UPLINK // CONTACT</samp>
 
 ```bash
-$ ./connect.sh --target jai-source --protocol secure
-> establishing connection...
-> handshake complete ✓
+> initiating uplink sequence...
+> 4 frequencies detected — select to synchronize
 ```
 
-<a href="https://github.com/jai-source"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a href="https://www.linkedin.com/in/jai-ratna-600522328/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:jairatna54@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<table>
+<tr>
+<td align="center" width="160">
 
+<a href="https://github.com/jai-source">
+<img src="https://img.shields.io/badge/FREQ_01-GITHUB-E8E3D3?style=flat-square&labelColor=0A0A0A&logo=github&logoColor=E8E3D3"/>
+</a>
+<br/><samp>🔴 SYNCED</samp>
 
-<br/><br/>
+</td>
+<td align="center" width="160">
 
-<img src="https://img.shields.io/badge/%E2%9A%A1_built_with_caffeine_%26_console.log()-0D0221?style=flat-square&labelColor=000000&color=FF00E4" />
+<a href="https://www.linkedin.com/in/jai-ratna-600522328/">
+<img src="https://img.shields.io/badge/FREQ_02-LINKEDIN-E8E3D3?style=flat-square&labelColor=0A0A0A&logo=linkedin&logoColor=E8E3D3"/>
+</a>
+<br/><samp>🔴 SYNCED</samp>
 
-<br/><br/>
+</td>
+<td align="center" width="160">
 
-<sub>⟦ EOF ⟧ <code>thank you for visiting // connection terminated gracefully</code></sub>
+<a href="mailto:jairatna54@gmail.com">
+<img src="https://img.shields.io/badge/FREQ_03-EMAIL-E8E3D3?style=flat-square&labelColor=0A0A0A&logo=gmail&logoColor=E8E3D3"/>
+</a>
+<br/><samp>🔴 SYNCED</samp>
+
+</td>
+<td align="center" width="160">
+
+<a href="#">
+<img src="https://img.shields.io/badge/FREQ_04-PORTFOLIO-E8E3D3?style=flat-square&labelColor=0A0A0A&logo=vercel&logoColor=E8E3D3"/>
+</a>
+<br/><samp>🔴 SYNCED</samp>
+
+</td>
+</tr>
+</table>
+
+```bash
+> uplink stable ✓  |  transmission ready for incoming pull requests
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC0868,50:7303C0,100:0D0221&height=120&section=footer" />
+<img src="https://img.shields.io/badge/FUELED_BY-CAFFEINE_%2B_console.log-0A0A0A?style=flat-square&labelColor=000000&color=B80F0A" />
+
+<br/><br/>
+
+<samp>『 EOF 』thank you for visiting — transmission terminated</samp>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:B80F0A,50:4A0404,100:0A0A0A&height=120&section=footer" />
 
 </div>
