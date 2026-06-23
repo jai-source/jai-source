@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,50:4A0404,100:B80F0A&height=280&section=header&text=JAI%20RATNA&fontSize=80&fontColor=E8E3D3&fontAlignY=42&desc=%E3%83%8D%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A4%E3%83%88%E3%83%BB%E3%83%87%E3%82%A4%E3%83%88%E3%83%BC%E3%83%96%E3%82%A4%E3%83%BC%E3%83%89%E3%83%AB%E3%83%BC%E3%83%84&descAlignY=62&descSize=18&descColor=B80F0A" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,50:4A0404,100:B80F0A&height=280&section=header&text=JAI%20RATNA&fontSize=80&fontColor=E8E3D3&fontAlignY=42&descAlignY=62&descSize=18&descColor=B80F0A" alt="header banner"/>
 
 <br/>
 
@@ -43,7 +43,7 @@ ACCESS   : ROOT
 
 <br/>
 
-## <samp>⌬ DOSSIER // ABOUT</samp>
+## <samp>⌬ ABOUT</samp>
 
 <div align="center">
 
@@ -72,7 +72,7 @@ ACCESS   : ROOT
 
 <br/>
 
-## <samp>⌬ ARSENAL // TECH GRID</samp>
+## <samp>⌬ TECH GRID</samp>
 
 <table width="100%">
 <tr>
@@ -166,7 +166,7 @@ ACCESS   : ROOT
 
 <br/>
 
-## <samp>⌬ COMBAT RECORD // STATS</samp>
+## <samp>⌬ STATS</samp>
 
 <div align="center">
 
@@ -194,11 +194,11 @@ ACCESS   : ROOT
 
 <div align="center">
 
-## <samp>⌬ NEURAL UPLINK // CONTACT</samp>
+## <samp>⌬ CONTACT</samp>
 
 ```bash
 > initiating uplink sequence...
-> 4 frequencies detected — select to synchronize
+> 3 frequencies detected — select to synchronize
 ```
 
 <table>
@@ -229,10 +229,7 @@ ACCESS   : ROOT
 </td>
 <td align="center" width="160">
 
-<a href="#">
-<img src="https://img.shields.io/badge/FREQ_04-PORTFOLIO-E8E3D3?style=flat-square&labelColor=0A0A0A&logo=vercel&logoColor=E8E3D3"/>
-</a>
-<br/><samp>🔴 SYNCED</samp>
+
 
 </td>
 </tr>
@@ -244,11 +241,10 @@ ACCESS   : ROOT
 
 <br/>
 
-<img src="https://img.shields.io/badge/FUELED_BY-CAFFEINE_%2B_console.log-0A0A0A?style=flat-square&labelColor=000000&color=B80F0A" />
 
 <br/><br/>
 
-<samp>『 EOF 』thank you for visiting — transmission terminated</samp>
+<samp>『 EOF 』thank's for visiting, feel free to check back anytime! — transmission terminated</samp>
 
 <br/>
 
